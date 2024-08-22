@@ -1,0 +1,7 @@
+## Interface: 100000
+## Author: Nonger
+## Title: UIScaler
+## Version: 1.0
+## Notes: Scale all Blizzard elements
+
+UIScaler.lua
